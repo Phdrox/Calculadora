@@ -6,5 +6,5 @@
 </ul>
 ----------------------------------------------------------------</br>
 Após Tudo isso vai até o local do arquivo no prompt de comando </br>
-e execute o seguinte código.
+e execute o seguinte código.</br>
 <strong>python Calculadora.py</strong>
