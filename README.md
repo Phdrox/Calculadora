@@ -4,7 +4,7 @@
 <ul>
   <li>Tenha o Python instalado (versão utilizada: 3.11.8)</li>
 </ul>
-----------------------------------------------------------------
+----------------------------------------------------------------</br>
 Após Tudo isso vai até o local do arquivo no prompt de comando </br>
 e execute o seguinte código.
 <strong>python Calculadora.py</strong>
